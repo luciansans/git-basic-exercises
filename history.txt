@@ -1,0 +1,179 @@
+    1  ls
+    2  ls-a
+    3  ls -a
+    4  git init
+    5  git status
+    6  touch README.md
+    7  ls -a
+    8  git status 
+    9  git log
+   10  git add
+   11  git add
+   12  git add .
+   13  git status
+   14  git comment -m "initial commit"
+   15  git commit -m "initial commit"
+   16  git log
+   17  q
+   18  nano README.md
+   19  cat README.md
+   20  git status
+   21  git commit -a "I still love anime"
+   22  git commit -a 'I still love anime'
+   23  git commit -m "second commit"
+   24  git commit -m "third commit"
+   25  git log 
+   26  git commit -m "third commit"
+   27  git commit -a "third commit"
+   28  git add
+   29  git add .
+   30  git log 
+   31  git commit -m "second commit"
+   32  git commit -m "third commit"
+   33  git commit -m "third commit"
+   34  git add .
+   35  git commit -m "third commit"
+   36  git commit -m "third commit"
+   37  git log
+   38  git commit -m "third commit"
+   39  git add .
+   40  git commit -m "third commit"
+   41  git add
+   42  git add .
+   43  git commit -m "third commit"
+   44  git commit -a "third commit"
+   45  git commit -m "third commit"
+   46  git status
+   47  git status
+   48  git commit -m "third commit"
+   49  git add .
+   50  git commit -m "third commit"
+   51  git log 
+   52  git log
+   53  git add
+   54  git add .
+   55  git log
+   56  git add .
+   57  git commit -m "third commit"
+   58  git init
+   59  git log
+   60  git add .
+   61  git add
+   62  git add -a
+   63  git add -A
+   64  git commit -m "third commit"
+   65  git add .
+   66  git add -A
+   67  git commit -m "third commit"
+   68  git log
+   69  qgit checkout
+   70  git checkout
+   71  cat READ.md
+   72  cat README.md
+   73  git checkout main
+   74  got checkout main
+   75  git checkout
+   76  git log
+   77  ls -a
+   78  git status
+   79  git init
+   80  git log
+   81  git add
+   82  git add .
+   83  git status
+   84  git status
+   85  git commit -m "third commit"
+   86  cd
+   87  ls
+   88  git log
+   89  git status
+   90  git branch
+   91  git branch
+   92  git branch
+   93  nano milkshakes.md
+   94  git status
+   95  git log
+   96  git log
+   97  git log
+   98  git log
+   99  git log
+  100  git log
+  101  git log
+  102  git branch
+  103  history > history.txt
+  104  git log
+  105  cat README.md
+  106  rm README.md
+  107  echo "booya" > README.md
+  108  git checkout main
+  109  ls
+  110  git log
+  111  git status
+  112  git log
+  113  git add .
+  114  git commit -m "third commit"
+  115  nano readme
+  116  cat readme.md
+  117  git status
+  118  git add
+  119  git add "third commit"
+  120  git commit -m "third commit"
+  121  ls -a
+  122  git add
+  123  git add .
+  124  git commit -m "third commit"
+  125  git log
+  126  q
+  127  git checkout
+  128  cat README.md
+  129  git checkout main
+  130  git checkout mian
+  131  git checkout 696c7427626a939636749d657463ae99160f9592
+  132  git checkout main
+  133  cat README.md
+  134  git checkout
+  135  git branch
+  136  ls- a
+  137  ls -a
+  138  git checkout milkshake-flavours
+  139  ls
+  140  git log
+  141  git log
+  142  ls
+  143  git log
+  144  git log 
+  145  git help
+  146  git init
+  147  touch README.md
+  148  git status
+  149  git add README.md
+  150  git commit -m "initial commit"
+  151  nano README.ms
+  152  nano README.md
+  153  git status 
+  154  git add .
+  155  git commit -m "Second commit"
+  156  nano README.md
+  157  git add .
+  158  git commit -m "third commit"
+  159  git log
+  160  q
+  161  nano read me
+  162  git checkout 437e1b9736baffe5284ceeb9649b1834d87b8587
+  163  nano README.md
+  164  git checkout master
+  165  nano README.md
+  166  git checkout -b milkshake-flavours
+  167  git status
+  168  ls
+  169  touch milkshakes.md
+  170  nano milkshakes.md
+  171  git add.
+  172  git add .
+  173  git commit -m "added initial flavours"
+  174  git log 
+  175  git checkout master
+  176  git checkout -b history
+  177  git branch
+  178  git log
+  179  history > history.txt
